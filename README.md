@@ -1,2 +1,4 @@
 # rmaniego.github.io
-hellow, world
+
+Visit [rodmaniego](https://rodmaniego.wordpress.com) blog for awesome reads!
+
